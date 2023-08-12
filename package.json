@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/Dishank-Kheni/json_uploader_firebase/issues"
   },
-  "homepage": "https://github.com/Dishank-Kheni/json_uploader_firebase#readme"
+  "homepage": "https://github.com/Dishank-Kheni/json_uploader_firebase#readme",
+  "dependencies": {
+    "firebase": "^10.1.0",
+    "firebase-admin": "^11.10.1"
+  }
 }
