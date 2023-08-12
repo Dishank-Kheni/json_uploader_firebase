@@ -1,0 +1,24 @@
+{
+  "name": "json_uploader_firebase",
+  "version": "1.0.0",
+  "description": "script whihc ppload json data to firebase without buying premium",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dishank-Kheni/json_uploader_firebase.git"
+  },
+  "keywords": [
+    "firebase",
+    "node.js",
+    "script"
+  ],
+  "author": "Dishan Kheni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dishank-Kheni/json_uploader_firebase/issues"
+  },
+  "homepage": "https://github.com/Dishank-Kheni/json_uploader_firebase#readme"
+}
